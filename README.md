@@ -1,2 +1,1 @@
-# uai
-armn ui
+# u[:a]i
