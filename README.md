@@ -101,6 +101,7 @@ It is also possible to run the watch task without **BrowserSync:**
 - [ ] Cleanup README.md
 - [ ] Separate instructions for **Foundation** workflow with Grunt & PostCSS
 - [ ] Development of **u[:a]i** Semantic UI theme
+- [ ] Add **.pug** gulp tasks
 
  
 
