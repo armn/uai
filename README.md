@@ -73,10 +73,10 @@ Directory *bower_components* will be created
 
 This will:
 
- {0}. [x] Compile **Pug** files to **HTML** (*in views/ directory*)
- {0}. [x] Build **Semantic UI** (**in ui/dist directory*)
- {0}. [ ] Run PostCSS tasks (nanocss & autoprefixer) on **style.css** and build **style.min.css**
- {0}. [ ] Minify files in **images/** directory
+- [x] Compile **Pug** files to **HTML** (*in views/ directory*)
+- [x] Build **Semantic UI** (**in ui/dist directory*)
+- [ ] Run PostCSS tasks (nanocss & autoprefixer) on **style.css** and build **style.min.css**
+- [ ] Minify files in **images/** directory
 
 
 Development workflow
