@@ -28,8 +28,8 @@ This project uses:
     - **https://gulp.readme.io/docs**
 - **BrowserSync:** used for synchronized browser testing
     - **https://www.browsersync.io/**
-- **Sass**, **Less**: used for CSS preprocessing (*Sass is not in use*
-    - http://sass-lang.com/****
+- **Sass**, **Less**: used for CSS preprocessing (*Sass is not in use*)
+    - http://sass-lang.com/
     - **http://lesscss.org/**
 - **PostCSS**: used for CSS postprocessing - minification & auto prefixing (*included in Semantic UI by default*)
     - **https://github.com/postcss/postcss**
@@ -73,10 +73,10 @@ Directory *bower_components* will be created
 
 This will:
 
-- [x] Compile **Pug** files to **HTML** (*in views/ directory*)
-- [x] Build **Semantic UI** (**in ui/dist directory*)
-- [ ] Run PostCSS tasks (nanocss & autoprefixer) on **style.css** and build **style.min.css**
-- [ ] Minify files in **images/** directory
+ {0}. [x] Compile **Pug** files to **HTML** (*in views/ directory*)
+ {0}. [x] Build **Semantic UI** (*in dist directory*)
+ {0}. [ ] Run PostCSS tasks (nanocss & autoprefixer) on **style.css** and build **style.min.css**
+ {0}. [ ] Minify files in **images/** directory
 
 
 Development workflow

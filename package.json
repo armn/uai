@@ -1,7 +1,7 @@
 {
   "name": "uai",
-  "version": "1.0.0",
-  "description": "armn user interface boilerplate",
+  "version": "1.0.1",
+  "description": "armn user interface boilerplate (semantic ui)",
   "main": "index.js",
   "dependencies": {
     "browser-sync": "^2.14.3",

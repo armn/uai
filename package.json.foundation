@@ -1,0 +1,57 @@
+{
+  "name": "DSWP",
+  "title": "Digital Score Wordpress Framework",
+  "description": "This project is developed for Digital Score",
+  "version": "0.0.3",
+  "author": {
+    "name": "Digital Score",
+    "url": "http://www.digitalscore.lv"
+  },
+  "copyright": "2016",
+  "main": "gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "http://lx97.advailo.com/digitalscore/ds-wp-framework.git"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  },
+  "keywords": [
+    "Digital Score",
+    "WordPress",
+    "WP",
+    "frontend",
+    "grunt",
+    "sass"
+  ],
+  "dependencies": {
+    "time-grunt": "*",
+    "bower": "*",
+    "grunt": "*"
+  },
+  "devDependencies": {
+    "autoprefixer": "*",
+    "browser-sync": "^2.13.0",
+    "cssnano": "*",
+    "grunt-bowercopy": "*",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-csslint": "*",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-pug": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-htmlhint": "^0.9.12-fix",
+    "grunt-modernizr": "^1.0.2",
+    "grunt-newer": "^1.2.0",
+    "grunt-notify": "*",
+    "grunt-postcss": "*",
+    "grunt-sass": "*",
+    "jit-grunt": "^0.10.0",
+    "node-sass": "*"
+  }
+}

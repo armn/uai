@@ -1,11 +1,11 @@
 {
-  "base": "ui",
+  "base": "/",
   "paths": {
     "source": {
-      "config": "semantic/src/theme.config",
-      "definitions": "semantic/src/definitions/",
-      "site": "semantic/src/site/",
-      "themes": "semantic/src/themes/"
+      "config": "ui/semantic/src/theme.config",
+      "definitions": "ui/semantic/src/definitions/",
+      "site": "ui/semantic/src/site/",
+      "themes": "ui/semantic/src/themes/"
     },
     "output": {
       "packaged": "dist/",

@@ -1,0 +1,19 @@
+{
+  "name": "armn's user interface boilerplate (foundation)",
+  "main": [],
+  "ignore": [],
+  "dependencies": {
+    "foundation": "zurb/foundation-sites",
+    "bourbon": "~4.2.2"
+  },
+  "devDependencies": {
+    "jquery-ie": "jquery#^1",
+    "jquery": "jquery#^2",
+    "html5shiv": "*",
+    "modernizr": "^3.3.1",
+    "normalize-css": "normalize.css#^4.1.1",
+    "bxslider-4": "*",
+    "slick-carousel": "^1.6.0",
+    "object-fit-images": "bfred-it/object-fit-images#^2.5.3"
+  }
+}
